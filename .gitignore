@@ -1,1 +1,3 @@
-/node_modulea
+/node_modules
+server/server.key
+server/server.crt
